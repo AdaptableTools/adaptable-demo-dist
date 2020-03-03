@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[222],{"71kA":function(e,n,a){"use strict";a.r(n);var o=a("q1tI"),t=a("mbJ9");a("PMha"),a("5TJ6"),a("jWP/"),a("nX5y"),n.default=function(e){return Object(o.useEffect)((function(){var n=void new t.AdaptableNoCodeWizard({primaryKey:"dtmKey",userName:"No Data User"},{});e.onReady&&e.onReady(n)}),[]),null}}}]);
